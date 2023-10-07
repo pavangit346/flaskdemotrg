@@ -1,0 +1,5 @@
+showdb
+use snehalDB
+insert
+find
+del
